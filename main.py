@@ -11,7 +11,7 @@ from typing import List
 
 # --- CONFIGURATION ---
 # Paste your webhook URL here to avoid typing it every time
-WEBHOOK_URL = "https://discord.com/api/webhooks/1484757005553111140/VKNSvGxwiYbeBfWNYhRoPm0jYV2Vf90PCmHSCGhXYLeXMwutuqX1XjcrHVEVvD_6FU9W" 
+WEBHOOK_URL = "WEBHOOK_URL_HERE" 
 # ---------------------
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s - %(message)s')
